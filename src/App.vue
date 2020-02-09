@@ -1,9 +1,11 @@
 <template>
-  <div class="flex flex-col h-screen">
-    <div class="bg-blue-500 flex-1 flex overflow-y-hidden">
-      <div class="bg-red-500 w-48 flex-none flex flex-col justify-between">
+  <div class="flex flex-col h-screen text-sm text-sm text-gray-400">
+    <div class="flex-1 flex overflow-y-hidden">
+      <div
+        class="bg-gray-900-spotify w-48 flex-none flex flex-col justify-between"
+      >
         <div>one</div>
-        <div class="overflow-y-auto">
+        <div class="overflow-y-auto bg-gray">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam
           expedita, nisi sit cumque minus sed deleniti sint sapiente soluta,
           minima nulla optio incidunt nemo atque ducimus, ut tempora? Excepturi
@@ -31,7 +33,7 @@
         </div>
         <div>three</div>
       </div>
-      <div class="bg-red-300 flex-1 overflow-y-auto">
+      <div class="bg-gray-800-spotify flex-1 overflow-y-auto">
         content Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
         deleniti facere, veritatis labore, nam voluptatibus repellendus,
         blanditiis exercitationem reiciendis delectus quas fugit sed inventore
@@ -257,7 +259,7 @@
         cum consectetur rem ad consequatur sunt, totam repellat ratione!
       </div>
     </div>
-    <div class="bg-blue-300">bottom</div>
+    <div class="bg-gray-700-spotify">bottom</div>
   </div>
 </template>
 
