@@ -1,34 +1,35 @@
 <template>
   <div class="flex flex-col h-screen">
     <div class="bg-blue-500 flex-1 flex overflow-y-hidden">
-      <div class="bg-red-500 w-48 flex-none overflow-y-auto">
-        sidebar Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe
-        non expedita inventore, corrupti consequatur ducimus atque voluptatum,
-        totam aperiam, itaque quibusdam tempora asperiores. In earum beatae ad
-        distinctio iure, velit nam vel animi neque culpa consequatur sunt eum
-        tempore officiis nobis iusto ea? Eius tenetur, fuga hic non in nulla
-        dolorem nemo, aliquid eveniet at enim, magni laboriosam nesciunt!
-        Dolores non rerum nihil aperiam dolorem recusandae iusto asperiores
-        deserunt, reprehenderit similique ex ipsa odio eveniet. Reprehenderit ut
-        porro repellat sed dolorem magnam, dolorum, nisi voluptates, quidem modi
-        saepe tempora deleniti? Voluptas non qui sed facere veritatis eum
-        officia obcaecati? Obcaecati et expedita pariatur voluptas consequuntur
-        aut numquam soluta non itaque. Aliquam rerum quis quia quod quae maxime,
-        cum ullam libero odio hic eos obcaecati deserunt, veniam animi. Quae, ad
-        aut. Unde necessitatibus vel vero. Minus numquam veritatis aspernatur
-        officiis recusandae reiciendis animi, laborum necessitatibus laudantium!
-        Molestiae repudiandae minus culpa saepe ullam officia odio veniam
-        numquam, hic cupiditate dicta voluptas, repellendus quis quibusdam
-        reiciendis ab sed, vel iusto cumque non eaque aliquam. Tempora tenetur
-        sit repellat a porro atque, soluta exercitationem laudantium quibusdam
-        repudiandae incidunt possimus impedit fuga deleniti dolore cupiditate
-        provident laboriosam aspernatur in culpa minus perferendis aliquam
-        corrupti voluptatem! At blanditiis ipsum vero dolorem nobis, esse iusto
-        sit placeat rerum, veritatis voluptatem hic ut, eos modi recusandae
-        enim? Harum obcaecati vel aperiam cumque, officia odit, aliquam
-        asperiores, reprehenderit alias quidem fugiat quia odio ullam cum
-        accusamus ipsum suscipit magnam sunt explicabo ex. Sunt molestias ea,
-        nobis perferendis debitis ullam.
+      <div class="bg-red-500 w-48 flex-none flex flex-col justify-between">
+        <div>one</div>
+        <div class="overflow-y-auto">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam
+          expedita, nisi sit cumque minus sed deleniti sint sapiente soluta,
+          minima nulla optio incidunt nemo atque ducimus, ut tempora? Excepturi
+          voluptate enim, minima provident veniam modi nostrum soluta recusandae
+          eaque, vero accusamus doloribus assumenda, cumque aut eos. Nihil quia
+          fugiat unde odit et asperiores magnam voluptates possimus nemo itaque.
+          Assumenda neque eveniet pariatur esse, quos corrupti nostrum
+          reiciendis officiis repudiandae dolor eaque illum quia maiores,
+          explicabo dolorem in quisquam, voluptatibus ipsum! Natus aspernatur
+          itaque eius neque, officia inventore nulla nesciunt quas reiciendis
+          eligendi dolor architecto cupiditate blanditiis voluptatum!
+          Reprehenderit nobis in consequuntur labore praesentium suscipit ullam
+          eius maxime, laborum velit cupiditate est molestiae quos deleniti
+          quam, architecto iure voluptatum obcaecati, aliquid ipsa dolorum
+          adipisci. Doloremque quisquam non laboriosam reprehenderit eum
+          recusandae consectetur veritatis sunt, iusto error ipsum earum! Id
+          laudantium mollitia veniam. Harum nihil tempore quis repellendus?
+          Minus nesciunt eaque odio distinctio, exercitationem fugiat quae eum,
+          dolor officia quam provident necessitatibus voluptas maxime,
+          dignissimos deserunt velit? Dolorum, molestiae nulla illum fugiat sed
+          molestias architecto deserunt error fuga, hic quas ipsa in dignissimos
+          pariatur quae consequatur impedit eos delectus nemo velit incidunt
+          aliquam dolore esse? Aliquid cupiditate ducimus, vel totam obcaecati
+          eum!
+        </div>
+        <div>three</div>
       </div>
       <div class="bg-red-300 flex-1 overflow-y-auto">
         content Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
