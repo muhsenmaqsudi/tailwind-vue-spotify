@@ -3,6 +3,27 @@ module.exports = {
   important: false,
   separator: ":",
   theme: {
+    extend: {
+      colors: {
+        "meetup-blue": "#00455D",
+        "meetup-purple": "#1F24CC",
+        "gray-750": "#3f495a",
+        "gray-850": "#222733",
+        "gray-900-spotify": "#121212",
+        "gray-800-spotify": "#181818",
+        "gray-700-spotify": "#282828"
+      },
+      spacing: {
+        "72": "18rem"
+      },
+      width: {
+        "7/10": "70%",
+        "3/10": "30%"
+      },
+      fontSize: {
+        xxs: "0.5rem"
+      }
+    },
     screens: {
       sm: "640px",
       md: "768px",
