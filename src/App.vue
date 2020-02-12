@@ -87,6 +87,61 @@
               <a href="#" class="hover:text-white">Podcasts</a>
             </li>
           </ul>
+
+          <h3
+            class="uppercase tracking-widest text-gray-500 font-normal text-xs mt-6"
+          >
+            Playlists
+          </h3>
+          <ul class="leading-extra-loose mb-6">
+            <li class="truncate">
+              <a href="#" class="hover:text-white">Acoustic Hits</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">Acoustic Covers</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">Discover Weekly</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">Hot Hits Canada</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white"
+                >90's Hip-Hop Don't Stop Long Text</a
+              >
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">90s Smash Hits</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">TGIF</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">mint Canada</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">Hip-Hop Central</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">R&amp;B Right Now</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">I Love My '90s R&amp;B</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">Are &amp; Be</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">Today's Top Hits</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">Get Turnt</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">iTunes</a>
+            </li>
+          </ul>
         </div>
         <div>three</div>
       </div>
