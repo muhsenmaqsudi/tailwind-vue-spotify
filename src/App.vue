@@ -5,7 +5,7 @@
         class="bg-gray-900-spotify w-48 flex-none flex flex-col justify-between"
       >
         <div>one</div>
-        <div class="overflow-y-auto bg-gray">
+        <div class="sidebar-spotify overflow-y-auto">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam
           expedita, nisi sit cumque minus sed deleniti sint sapiente soluta,
           minima nulla optio incidunt nemo atque ducimus, ut tempora? Excepturi
@@ -33,7 +33,7 @@
         </div>
         <div>three</div>
       </div>
-      <div class="bg-gray-800-spotify flex-1 overflow-y-auto">
+      <div class="content-spotify bg-gray-800-spotify flex-1 overflow-y-auto">
         content Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
         deleniti facere, veritatis labore, nam voluptatibus repellendus,
         blanditiis exercitationem reiciendis delectus quas fugit sed inventore
@@ -270,3 +270,21 @@ export default {
 </script>
 
 <style src="./assets/tailwind.css"></style>
+<style>
+.sidebar-spotify::-webkit-scrollbar {
+  width: 8px;
+  background-color: #121212;
+}
+.sidebar-spotify::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  background-color: #535353;
+}
+.content-spotify::-webkit-scrollbar {
+  width: 8px;
+  background-color: #181818;
+}
+.content-spotify::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  background-color: #535353;
+}
+</style>
