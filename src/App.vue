@@ -61,31 +61,32 @@
             </a>
           </li>
         </ul>
-        <div class="sidebar-spotify overflow-y-auto">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam
-          expedita, nisi sit cumque minus sed deleniti sint sapiente soluta,
-          minima nulla optio incidunt nemo atque ducimus, ut tempora? Excepturi
-          voluptate enim, minima provident veniam modi nostrum soluta recusandae
-          eaque, vero accusamus doloribus assumenda, cumque aut eos. Nihil quia
-          fugiat unde odit et asperiores magnam voluptates possimus nemo itaque.
-          Assumenda neque eveniet pariatur esse, quos corrupti nostrum
-          reiciendis officiis repudiandae dolor eaque illum quia maiores,
-          explicabo dolorem in quisquam, voluptatibus ipsum! Natus aspernatur
-          itaque eius neque, officia inventore nulla nesciunt quas reiciendis
-          eligendi dolor architecto cupiditate blanditiis voluptatum!
-          Reprehenderit nobis in consequuntur labore praesentium suscipit ullam
-          eius maxime, laborum velit cupiditate est molestiae quos deleniti
-          quam, architecto iure voluptatum obcaecati, aliquid ipsa dolorum
-          adipisci. Doloremque quisquam non laboriosam reprehenderit eum
-          recusandae consectetur veritatis sunt, iusto error ipsum earum! Id
-          laudantium mollitia veniam. Harum nihil tempore quis repellendus?
-          Minus nesciunt eaque odio distinctio, exercitationem fugiat quae eum,
-          dolor officia quam provident necessitatibus voluptas maxime,
-          dignissimos deserunt velit? Dolorum, molestiae nulla illum fugiat sed
-          molestias architecto deserunt error fuga, hic quas ipsa in dignissimos
-          pariatur quae consequatur impedit eos delectus nemo velit incidunt
-          aliquam dolore esse? Aliquid cupiditate ducimus, vel totam obcaecati
-          eum!
+        <div class="sidebar-spotify overflow-y-auto px-5 mt-2">
+          <h3
+            class="uppercase tracking-widest text-gray-500 font-normal text-xs"
+          >
+            Your Library
+          </h3>
+          <ul class="leading-extra-loose">
+            <li class="truncate">
+              <a href="#" class="hover:text-white">Made For You</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">Recently Played</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">Liked Songs</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">Albums</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">Artists</a>
+            </li>
+            <li class="truncate">
+              <a href="#" class="hover:text-white">Podcasts</a>
+            </li>
+          </ul>
         </div>
         <div>three</div>
       </div>

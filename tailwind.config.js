@@ -22,6 +22,9 @@ module.exports = {
       },
       fontSize: {
         xxs: "0.5rem"
+      },
+      lineHeight: {
+        "extra-loose": "2.5"
       }
     },
     screens: {
